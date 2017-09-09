@@ -1,6 +1,6 @@
 {
   "name": "key-as",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create an object from keys and fill value",
   "main": "key-as.js",
   "scripts": {
