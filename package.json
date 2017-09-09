@@ -1,0 +1,31 @@
+{
+  "name": "key-as",
+  "version": "0.0.0",
+  "description": "Create an object from keys and fill value",
+  "main": "key-as.js",
+  "scripts": {
+    "pretest": "eslint .",
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/key-as.git"
+  },
+  "author": "Ryan Van Etten",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/ryanve/key-as/issues"
+  },
+  "homepage": "https://github.com/ryanve/key-as",
+  "devDependencies": {
+    "eslint": "^4.6.1"
+  },
+  "keywords": [
+    "javascript",
+    "defaults",
+    "utility",
+    "object",
+    "fill",
+    "keys"
+  ]
+}
